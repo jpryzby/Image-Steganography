@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Decoder
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EncoderDecoder\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=editedImage
+comment1.target=void\ printHiddenMessage(java.io.File)
+comment1.text=\r\n\ Method\ printHiddenMessage\r\n\r\n\ This\ method\ takes\ in\ as\ file\ pointer\ to\ an\ image,\ and\ reads\ pulls\ out\ a\ \r\n\ steganographic\ message\r\n
+numComments=2

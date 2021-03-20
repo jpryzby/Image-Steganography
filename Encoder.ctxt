@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Encoder
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Encoder\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=inputText\ imageFile
+comment1.target=void\ encodeImage(java.io.File,\ java.io.File)
+comment2.params=imageFile
+comment2.target=void\ encodeImage(java.io.File)
+comment3.params=file
+comment3.target=java.util.ArrayList\ getBitArrayFromFile(java.io.File)
+comment3.text=\r\n\ Method\ getBinaryInputFromFile\r\nThis\ method\ takes\ in\ a\ .txt\ file,\ and\ coverts\ it\ to\ an\ \r\nArrayList\ of\ bits.\ Each\ slot\ in\ the\ array\ has\ 8\ bits\ or\ 1\ character\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getBitArrayFromUser()
+comment4.text=\r\n\ Method\ getBinaryInputFromFile\r\nThis\ method\ takes\ in\ a\ String\ from\ the\ user,\ and\ coverts\ it\ to\ an\ \r\nArrayList\ of\ bits.\ Each\ slot\ in\ the\ array\ has\ 8\ bits\ or\ 1\ character\r\n
+comment5.params=fileName
+comment5.target=java.lang.String[]\ getBinaryArrayFromPicture(java.io.File)
+comment5.text=\r\n\ Method\ getBinaryArrayFromPicture\r\nThis\ method\ takes\ in\ an\ image\ file,\ and\ converts\ it\ to\ a\ \r\n2\ dimentional\ array\ of\ binary\ strings\r\n
+comment6.params=textToBeInserted\ imageToBeEdited
+comment6.target=java.lang.String[]\ insertMessage(java.util.ArrayList,\ java.lang.String[])
+comment6.text=\r\n\ Method\ insertMessage\r\n\r\n\ @param\ textToBeInserted\ A\ parameter\r\n\ @param\ imageToBeEdited\ A\ parameter\r\n\ @return\ The\ return\ value\r\n
+comment7.params=input\ originalImage
+comment7.target=void\ outputImage(java.lang.String[],\ java.io.File)
+comment7.text=\r\n\ Method\ outputImage\r\n\r\n
+numComments=8
