@@ -13,9 +13,6 @@ import java.util.Scanner;
  */
 public class Encoder
 {
-    
-    
-    
     public static void encodeImage(File inputText, File imageFile)throws IOException
     {
         ArrayList messageBinary = getBitArrayFromFile(inputText);
